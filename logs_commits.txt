@@ -1,0 +1,4 @@
+[HISTORIAL LOCAL DE COMMITS]
+Recursos con README.md y .gitignore
+- 903b816 Recursos con readme y gitignore
+- 5122384 Cambio del nombre y la hora
